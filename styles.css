@@ -20,7 +20,7 @@ padding: 0;
 }
 nav ul li {
 display: inline; /* Display list items horizontally */
-margin-left: 1100px; /* Example margin between items */
+margin-left: 80%; /* Example margin between items */
 }
 
 nav ul li a {
